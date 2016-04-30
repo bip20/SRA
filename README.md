@@ -1,2 +1,2 @@
 # SRA
-Code used in the paper "A generalized Successive Resultants Algorithm"
+This repository contains the code used in the paper "A Generalized Successive Resultants Algorithm".
